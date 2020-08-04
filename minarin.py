@@ -23,4 +23,4 @@ async def clear(ctx,limit=5):
 async def hi(ctx):
     await ctx.send('Hi ><')
 
-bot.run('NzExMDY1ODg0MDg4NTk4NjA5.Xr9mtA.63vT0n5Yh98QoN-PNdnEEtFg2ro')
+#bot.run('NzExMDY1ODg0MDg4NTk4NjA5.Xr9mtA.63vT0n5Yh98QoN-PNdnEEtFg2ro')
