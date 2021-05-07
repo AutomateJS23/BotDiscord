@@ -26,3 +26,4 @@ async def hi(ctx):
 bot.run('yourBotToken')
 print('finis')
 print('finis2')
+print('test 3')
