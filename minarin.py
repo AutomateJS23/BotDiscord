@@ -25,3 +25,4 @@ async def hi(ctx):
 
 bot.run('yourBotToken')
 print('finis')
+print('finis2')
