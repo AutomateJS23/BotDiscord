@@ -24,3 +24,4 @@ async def hi(ctx):
     await ctx.send('Hi ><')
 
 bot.run('yourBotToken')
+print('finis')
